@@ -11,7 +11,7 @@ potential. The interpolation file for the same needs to
 provide particle-wall distance and corresponding force. 
 
 Brownian forces are calculated from the equations described
-in [Casanova et. al. 2020](https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR04058D)
+in [Casanova 2020](https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR04058D)
 or from a file containing time series of Brownian forces
 computed from MD or otherwise.
 
