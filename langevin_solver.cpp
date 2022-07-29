@@ -66,7 +66,7 @@ int main()
 
 	// read-in particle wall force interpolation file
 	double tx, tf; // temporary value holders
-	ifstream pwf("ppforce.txt", ios::in);
+	ifstream pwf("wallf.txt", ios::in);
 	while (true)
 	{
 		pwf >> tx >> tf;
