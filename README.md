@@ -1,4 +1,5 @@
 # Langevin solver
+<img src="LangevinSolverImg.svg" width="400" height="300">
 
 ## Description
 This program simulates a point particle in water in front of an 
