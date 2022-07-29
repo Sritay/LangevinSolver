@@ -9,12 +9,14 @@ interpolated from a file.
 
 The LJ force is calculated using the 12-6 form of the LJ 
 potential. The interpolation file for the same needs to 
-provide particle-wall distance and corresponding force. 
+provide particle-wall distance and corresponding force. A sample
+file, 'wallf.txt' is provided.
 
 Brownian forces are calculated from the equations described
 in [Casanova 2020](https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR04058D)
 or from a file containing time series of Brownian forces
-computed from MD or otherwise.
+computed from MD or otherwise. A sample file, 'brownianf.txt'
+is provided.
 
 To compile: 
 ```
